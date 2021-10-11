@@ -14,4 +14,4 @@ jobs:
     steps:
     - uses: actions/checkout@v2
     - name: prepare-buildroot
-      uses: buildroot-prepare@main
+      uses: owlvisiontech/buildroot-prepare@main
